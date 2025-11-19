@@ -77,6 +77,7 @@ This report was created to familiarize myself with Power BI – it is my first p
 
 
 ----
+---------
 French version 
 Tableau de bord Netflix – Projet Power BI
 Présentation du projet
