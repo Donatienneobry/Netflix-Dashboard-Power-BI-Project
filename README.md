@@ -1,5 +1,16 @@
 # Netflix performancce Dashboard - Power BI Project
 
+---
+
+## Project Overview
+This Power BI Dashboard provides an analytical view of Netflix performance across multiple dimensions<br /> 
+🎬 Types of Content<br />
+🌍 Countries<br />
+🎭 Casts & Directors<br />
+This report was created to familiarize myself with Power BI – it is my first portfolio project on this tool.
+
+---
+
 ![Dashboard Overview](https://github.com/Donatienneobry/Netflix-Dashboard-Power-BI-Project/raw/Development-don/neflix_project_dashboard_1.PNG)
 
 ![Content Types](https://github.com/Donatienneobry/Netflix-Dashboard-Power-BI-Project/raw/Development-don/neflix_project_content_2.PNG)
@@ -10,14 +21,7 @@
 
 ![Final KPI](https://github.com/Donatienneobry/Netflix-Dashboard-Power-BI-Project/raw/Development-don/neflix_project_final_5.PNG)
 
----
 
-## Project Overview
-This Power BI Dashboard provides an analytical view of Netflix performance across multiple dimensions<br /> 
-🎬 Types of Content<br />
-🌍 Countries<br />
-🎭 Casts & Directors<br />
-This report was created to familiarize myself with Power BI – it is my first portfolio project on this tool.
 
 ---
 
@@ -73,7 +77,7 @@ This report was created to familiarize myself with Power BI – it is my first p
 
 
 ----
-🇫🇷 French version 
+&#x1F1EB;&#x1F1F7 French version 
 Tableau de bord Netflix – Projet Power BI
 Présentation du projet
 Ce tableau de bord Power BI offre une vue analytique de la performance de Netflix sur plusieurs dimensions :<br />
