@@ -13,7 +13,7 @@
 ---
 
 ## Project Overview
-This Power BI Dashboard provides an analytical view of Netflix performance across multiple dimensions 
+This Power BI Dashboard provides an analytical view of Netflix performance across multiple dimensions<br /> 
 🎬 Types of Content<br />
 🌍 Countries<br />
 🎭 Casts & Directors<br />
@@ -69,86 +69,59 @@ This report was created to familiarize myself with Power BI – it is my first p
 - Track the distribution and popularity of the catalog by country.
 - Understand dominant genres in each market.
 - Identify top-performing countries, casts, and genres.
-- Guide catalog planning and marketing strategies through clear visual analysis.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- Guide catalog planning and marketing strategies through clear visual analysis
 
 
 ----
-French version 
+🇫🇷 French version 
 Tableau de bord Netflix – Projet Power BI
 Présentation du projet
-Ce tableau de bord Power BI offre une vue analytique de la performance de Netflix sur plusieurs dimensions :
-🎬 Types de contenus
-🌍 Pays
-🎭 Répartition des castings et réalisateurs
+Ce tableau de bord Power BI offre une vue analytique de la performance de Netflix sur plusieurs dimensions :<br />
+🎬 Types de contenus<br />
+🌍 Pays<br />
+🎭 Répartition des castings et réalisateurs<br />
 
 Ce rapport a été réalisé afin de me familiariser avec Power BI – il s'agit de mon premier projet portfolio sur cet outil.
 
-Objectifs
-Analyser la distribution et l’évolution des titres Netflix par pays.
-Mettre en avant les genres et types de contenus les plus populaires selon les régions.
-Identifier les réalisateurs et acteurs les plus prolifiques présents sur Netflix.
-Extraire des insights clés pour accompagner la prise de décision.
+## Objectifs
+- Analyser la distribution et l’évolution des titres Netflix par pays.
+- Mettre en avant les genres et types de contenus les plus populaires selon les régions.
+- Identifier les réalisateurs et acteurs les plus prolifiques présents sur Netflix.
+- Extraire des insights clés pour accompagner la prise de décision.
 
-Principaux enseignements
-L’analyse porte sur 8 803 titres, 124 pays et 37 genres.
-Les États-Unis, l’Inde et le Royaume-Uni sont les pays qui comptent le plus de titres Netflix.
-Les films représentent 70 % du catalogue, les séries 30 %.
-Les genres "Action/Aventure" et "Drame" dominent dans la majorité des territoires.
-Des réalisateurs comme Rajiv Chilaka ou Steven Spielberg apparaissent parmi les plus actifs sur la plateforme.
+## Principaux enseignements
+- L’analyse porte sur 8 803 titres, 124 pays et 37 genres.
+- Les États-Unis, l’Inde et le Royaume-Uni sont les pays qui comptent le plus de titres Netflix.
+- Les films représentent 70 % du catalogue, les séries 30 %.
+- Les genres "Action/Aventure" et "Drame" dominent dans la majorité des territoires.
+- Des réalisateurs comme Rajiv Chilaka ou Steven Spielberg apparaissent parmi les plus actifs sur la plateforme.
 
-Détails techniques
-Aspect	Détails
-Outils utilisés	Power BI
-Source de données	Jeu de données public Netflix, retraité sous Power BI
-Fichier principal	Lien Kaggle, CSV à ajouter
-Types de visuels	Cartes, histogrammes, diagrammes circulaires, treemap
+## Détails techniques
 
-Compétences Power BI mises en œuvre
-Nettoyage et transformation de données
-Modélisation des relations entre pays, contenus et castings
-Élaboration de KPIs pour des insights rapides
-Visualisation interactive de la répartition mondiale des contenus
+| **Aspect** | **Details** |
+|-------------|-------------|
+| **Outils utilisés** |	Power BI |
+| **Source de données** |https://www.kaggle.com/datasets/shivamb/netflix-shows |
+| **Types de visuels** | Cartes, histogrammes, diagrammes circulaires, treemap |
 
-Exemples de dashboards
-Vue globale du catalogue
 
-Types de contenus par pays
+## Compétences Power BI mises en œuvre
+- Nettoyage et transformation de données
+- Modélisation des relations entre pays, contenus et castings
+- Élaboration de KPIs pour des insights rapides
+- Visualisation interactive de la répartition mondiale des contenus
 
-Répartition des titres et genres leaders
+## Exemples de dashboards
+- Vue globale du catalogue
+- Types de contenus par pays
+- Répartition des titres et genres leaders
+- Castings et réalisateurs majeurs
+- Synthèse KPI finale
 
-Castings et réalisateurs majeurs
+## Impact business
+- Ce dashboard permet à Netflix, aux analystes et aux décideurs :
+- De suivre la diffusion et la popularité du catalogue selon le pays.
+- De comprendre les genres dominants sur chaque marché.
+- D’identifier les pays, castings et genres les plus performants.
+- D’orienter la planification de catalogue et les stratégies marketing grâce à une analyse visuelle claire.
 
-Synthèse KPI finale
-
-Impact business
-Ce dashboard permet à Netflix, aux analystes et aux décideurs :
-
-De suivre la diffusion et la popularité du catalogue selon le pays.
-
-De comprendre les genres dominants sur chaque marché.
-
-D’identifier les pays, castings et genres les plus performants.
-
-D’orienter la planification de catalogue et les stratégies marketing grâce à une analyse visuelle claire.
-
-Source des données
-Jeu de données : données publiques Netflix (usage portfolio et formation)
-
-Réalisé dans le cadre de l’apprentissage et du développement des compétences analytiques
-
-Licence : Usage pédagogique / Open Data
