@@ -77,7 +77,7 @@ This report was created to familiarize myself with Power BI – it is my first p
 
 
 ----
-&#x1F1EB;&#x1F1F7 French version 
+&#x1F1EB;&#x1F1F7; French version 
 Tableau de bord Netflix – Projet Power BI
 Présentation du projet
 Ce tableau de bord Power BI offre une vue analytique de la performance de Netflix sur plusieurs dimensions :<br />
