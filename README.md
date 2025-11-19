@@ -77,16 +77,16 @@ This report was created to familiarize myself with Power BI – it is my first p
 
 
 ----
----------
+----
 French version 
-Tableau de bord Netflix – Projet Power BI
-Présentation du projet
+Tableau de bord Netflix – Projet Power BI<br />
+Présentation du projet<br />
 Ce tableau de bord Power BI offre une vue analytique de la performance de Netflix sur plusieurs dimensions :<br />
 🎬 Types de contenus<br />
 🌍 Pays<br />
 🎭 Répartition des castings et réalisateurs<br />
 
-Ce rapport a été réalisé afin de me familiariser avec Power BI – il s'agit de mon premier projet portfolio sur cet outil.
+Ce rapport a été réalisé afin de me familiariser avec Power BI – il s'agit de mon premier projet sur cet outil.
 
 ## Objectifs
 - Analyser la distribution et l’évolution des titres Netflix par pays.
