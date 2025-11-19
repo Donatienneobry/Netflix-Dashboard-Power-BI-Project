@@ -14,9 +14,9 @@
 
 ## Project Overview
 This Power BI Dashboard provides an analytical view of Netflix performance across multiple dimensions 
-🎬 Types of Content
-🌍 Countries
-🎭 Casts & Directors
+🎬 Types of Content<br />
+🌍 Countries<br />
+🎭 Casts & Directors<br />
 This report was created to familiarize myself with Power BI – it is my first portfolio project on this tool.
 
 ---
