@@ -1,10 +1,11 @@
 # Netflix performancce Dashboard - Power BI Project
 
-[neflix_project_dashboard_1.PNG ](https://github.com/Donatienneobry/Netflix-Dashboard-Power-BI-Project/blob/Development-don/neflix_project_dashboard_1.PNG)
-[neflix_project_content_2.PNG](https://github.com/Donatienneobry/Netflix-Dashboard-Power-BI-Project/blob/Development-don/neflix_project_content_2.PNG)
-[neflix_project_countries_3.PNG](https://github.com/Donatienneobry/Netflix-Dashboard-Power-BI-Project/blob/Development-don/neflix_project_countries_3.PNG)
-[neflix_project_casts_4.PNG](https://github.com/Donatienneobry/Netflix-Dashboard-Power-BI-Project/blob/Development-don/neflix_project_casts_4.PNG)
-[neflix_project_final_5.PNG](https://github.com/Donatienneobry/Netflix-Dashboard-Power-BI-Project/blob/Development-don/neflix_project_final_5.PNG)
+![Dashboard Overview](https://github.com/Donatienneobry/Netflix-Dashboard-Power-BI-Project/raw/Development-don/neflix_project_dashboard_1.PNG)
+![Content Types](https://github.com/Donatienneobry/Netflix-Dashboard-Power-BI-Project/raw/Development-don/neflix_project_content_2.PNG)
+![Countries Insight](https://github.com/Donatienneobry/Netflix-Dashboard-Power-BI-Project/raw/Development-don/neflix_project_countries_3.PNG)
+![Cast & Directors](https://github.com/Donatienneobry/Netflix-Dashboard-Power-BI-Project/raw/Development-don/neflix_project_casts_4.PNG)
+![Final KPI](https://github.com/Donatienneobry/Netflix-Dashboard-Power-BI-Project/raw/Development-don/neflix_project_final_5.PNG)
+
 ---
 
 ## Project Overview
