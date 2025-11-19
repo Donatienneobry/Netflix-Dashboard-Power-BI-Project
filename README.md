@@ -1,5 +1,10 @@
 # Netflix performancce Dashboard - Power BI Project
 
+neflix_project_dashboard_1.PNG 
+neflix_project_content_2.PNG
+neflix_project_countries_3.PNG
+neflix_project_casts_4.PNG
+neflix_project_final_5.PNG
 ---
 
 ## Project Overview
